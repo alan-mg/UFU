@@ -1,0 +1,4 @@
+Arquivos Binarios
+gcc -o main main.c
+./main
+Ou é so utilizar o arquivo dentro da pasta bin
